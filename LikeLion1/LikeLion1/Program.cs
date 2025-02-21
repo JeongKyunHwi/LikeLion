@@ -10,7 +10,14 @@ namespace LikeLion1
     {
         static void Main(string[] args)
         {
+            //출력
             Console.WriteLine("Github 연결 하기");
+
+            //변수 선언
+            int age; //정수형 변수
+            age = 25;
+
+            Console.WriteLine(age); 
         }
     }
 }
