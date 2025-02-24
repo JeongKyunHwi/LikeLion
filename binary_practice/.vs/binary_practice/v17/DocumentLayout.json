@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\LikeLion\\LikeLion\\binary_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1160D4-8C98-470C-B143-DE6B896D21A7}|binary_practice\\binary_practice.csproj|d:\\github\\likelion\\likelion\\binary_practice\\binary_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1160D4-8C98-470C-B143-DE6B896D21A7}|binary_practice\\binary_practice.csproj|solutionrelative:binary_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\binary_practice\\binary_practice\\Program.cs",
+              "RelativeDocumentMoniker": "binary_practice\\Program.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\binary_practice\\binary_practice\\Program.cs",
+              "RelativeToolTip": "binary_practice\\Program.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAuwCQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:23:24.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

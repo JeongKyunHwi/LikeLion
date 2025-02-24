@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\bin\Debug\binary_practice.exe.config
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\bin\Debug\binary_practice.exe
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\bin\Debug\binary_practice.pdb
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\obj\Debug\binary_practice.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\obj\Debug\binary_practice.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\obj\Debug\binary_practice.exe
+D:\GitHub\LikeLion\LikeLion\binary_practice\binary_practice\obj\Debug\binary_practice.pdb
