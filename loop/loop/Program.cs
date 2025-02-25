@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace loop
@@ -153,6 +154,96 @@ namespace loop
 
             //    goto start;
             //}
+
+            //project black smith
+
+            Random random = new Random();
+
+            Console.WriteLine(" 대장장이 키우기 ");
+
+            int pmoney = 100;
+            int input;
+            int rnd;
+
+            Thread.Sleep(500);
+
+            while (true)
+            {
+                Console.Clear();
+                Console.Write("1. 나무캐기 ");
+                Console.Write("2. 장비뽑기 ");
+                Console.WriteLine("3. 나가기");
+                Console.Write("입력 : ");
+                input = int.Parse(Console.ReadLine());
+
+                if(input == 1)
+                {
+                    while (true)
+                    {
+                        Console.WriteLine("나무캐기(엔터)");
+                        Console.WriteLine("뒤로가기 x");
+
+                        string str = Console.ReadLine();
+
+                        pmoney += 100;
+                        Console.WriteLine("소지금 : " + pmoney);
+                        if (str == "x")
+                        {
+                            Console.WriteLine("뒤로가기");
+                            break;
+                        }
+                    }
+                }
+                else if(input == 2)
+                {
+                    if (pmoney >= 1000)
+                    {
+                        pmoney -= 1000;
+                        for(int i =0; i<20; i++)
+                        {
+                            rnd = random.Next(0, 100);
+                            if (rnd == 0)
+                            {
+                                Console.WriteLine("SSS등급 도끼");
+                            }
+                            else if(rnd >=1 && rnd <= 5)
+                            {
+                                Console.WriteLine("SS등급 도끼");
+
+                            }else if(rnd >=6 && rnd <= 16)
+                            {
+                                Console.WriteLine("S등급 도끼");
+                            }
+                            else if (rnd >= 17 && rnd <= 37)
+                            {
+                                Console.WriteLine("A등급 도끼");
+                            }
+                            else if (rnd >= 38 && rnd <= 68)
+                            {
+                                Console.WriteLine("B등급 도끼");
+                            }
+                            else
+                            {
+                                Console.WriteLine("C등급 도끼");
+                            }
+                            Thread.Sleep(500);
+
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("돈이 부족합니다. \n");
+                        Thread.Sleep(1000);
+                    }
+                } else if (input == 3)
+                {
+                    Console.WriteLine("나갑니다~");
+                    Environment.Exit(0);
+                }
+                
+
+            }
+
 
 
 
