@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\bin\Debug\Function_Study.exe.config
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\bin\Debug\Function_Study.exe
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\bin\Debug\Function_Study.pdb
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\obj\Debug\Function_Study.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\obj\Debug\Function_Study.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\obj\Debug\Function_Study.exe
+D:\GitHub\LikeLion\LikeLion\Function_Study\Function_Study\obj\Debug\Function_Study.pdb
