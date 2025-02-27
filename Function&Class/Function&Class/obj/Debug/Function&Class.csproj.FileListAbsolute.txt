@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\bin\Debug\Function&Class.exe.config
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\bin\Debug\Function&Class.exe
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\bin\Debug\Function&Class.pdb
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\obj\Debug\Function&Class.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\obj\Debug\Function&Class.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\obj\Debug\Function&Class.exe
+D:\GitHub\LikeLion\LikeLion\Function&Class\Function&Class\obj\Debug\Function&Class.pdb
