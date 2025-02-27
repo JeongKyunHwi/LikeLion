@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\bin\Debug\study15_Class.exe.config
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\bin\Debug\study15_Class.exe
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\bin\Debug\study15_Class.pdb
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\obj\Debug\study15_Class.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\obj\Debug\study15_Class.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\obj\Debug\study15_Class.exe
+D:\GitHub\LikeLion\LikeLion\study15_Class\study15_Class\obj\Debug\study15_Class.pdb
