@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\obj\Debug\Inventory.exe
+D:\GitHub\LikeLion\LikeLion\Inventory\Inventory\obj\Debug\Inventory.pdb
