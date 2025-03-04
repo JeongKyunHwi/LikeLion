@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\study20\study20\bin\Debug\study20.exe.config
+D:\GitHub\LikeLion\LikeLion\study20\study20\bin\Debug\study20.exe
+D:\GitHub\LikeLion\LikeLion\study20\study20\bin\Debug\study20.pdb
+D:\GitHub\LikeLion\LikeLion\study20\study20\obj\Debug\study20.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\study20\study20\obj\Debug\study20.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\study20\study20\obj\Debug\study20.exe
+D:\GitHub\LikeLion\LikeLion\study20\study20\obj\Debug\study20.pdb
