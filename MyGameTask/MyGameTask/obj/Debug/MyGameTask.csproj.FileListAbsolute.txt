@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\obj\Debug\MyGameTask.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\obj\Debug\MyGameTask.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\bin\Debug\MyGameTask.exe.config
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\bin\Debug\MyGameTask.exe
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\bin\Debug\MyGameTask.pdb
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\obj\Debug\MyGameTask.exe
+D:\GitHub\LikeLion\LikeLion\MyGameTask\MyGameTask\obj\Debug\MyGameTask.pdb
