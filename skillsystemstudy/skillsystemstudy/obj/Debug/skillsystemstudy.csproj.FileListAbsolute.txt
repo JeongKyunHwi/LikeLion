@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\bin\Debug\skillsystemstudy.exe.config
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\bin\Debug\skillsystemstudy.exe
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\bin\Debug\skillsystemstudy.pdb
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\obj\Debug\skillsystemstudy.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\obj\Debug\skillsystemstudy.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\obj\Debug\skillsystemstudy.exe
+D:\GitHub\LikeLion\LikeLion\skillsystemstudy\skillsystemstudy\obj\Debug\skillsystemstudy.pdb

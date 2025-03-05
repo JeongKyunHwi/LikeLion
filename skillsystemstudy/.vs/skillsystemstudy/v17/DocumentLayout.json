@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\LikeLion\\LikeLion\\skillsystemstudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E93ABCD-995F-4E95-A218-2D31E1FD4AEE}|skillsystemstudy\\skillsystemstudy.csproj|d:\\github\\likelion\\likelion\\skillsystemstudy\\skillsystemstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E93ABCD-995F-4E95-A218-2D31E1FD4AEE}|skillsystemstudy\\skillsystemstudy.csproj|solutionrelative:skillsystemstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\skillsystemstudy\\skillsystemstudy\\Program.cs",
+              "RelativeDocumentMoniker": "skillsystemstudy\\Program.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\skillsystemstudy\\skillsystemstudy\\Program.cs",
+              "RelativeToolTip": "skillsystemstudy\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIA8wF8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:14:50.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
