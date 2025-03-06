@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\task7\task7\bin\Debug\task7.exe.config
+D:\GitHub\LikeLion\LikeLion\task7\task7\bin\Debug\task7.exe
+D:\GitHub\LikeLion\LikeLion\task7\task7\bin\Debug\task7.pdb
+D:\GitHub\LikeLion\LikeLion\task7\task7\obj\Debug\task7.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\task7\task7\obj\Debug\task7.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\task7\task7\obj\Debug\task7.exe
+D:\GitHub\LikeLion\LikeLion\task7\task7\obj\Debug\task7.pdb
