@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\study24\study24\bin\Debug\study24.exe.config
+D:\GitHub\LikeLion\LikeLion\study24\study24\bin\Debug\study24.exe
+D:\GitHub\LikeLion\LikeLion\study24\study24\bin\Debug\study24.pdb
+D:\GitHub\LikeLion\LikeLion\study24\study24\obj\Debug\study24.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\study24\study24\obj\Debug\study24.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\study24\study24\obj\Debug\study24.exe
+D:\GitHub\LikeLion\LikeLion\study24\study24\obj\Debug\study24.pdb
