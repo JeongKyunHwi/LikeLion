@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|d:\\github\\likelion\\likelion\\textrpgtask\\textrpgtask\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03145E82-57AD-4675-A07F-D25EAA1666C0}|TextRPGTask\\TextRPGTask.csproj|solutionrelative:textrpgtask\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Monster.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\Monster.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Monster.cs",
+              "RelativeToolTip": "TextRPGTask\\Monster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:29:56.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Field.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\Field.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Field.cs*",
+              "RelativeToolTip": "TextRPGTask\\Field.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:16:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\GameManager.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\GameManager.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\GameManager.cs",
+              "RelativeToolTip": "TextRPGTask\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:10:16.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Player.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\Player.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Player.cs",
+              "RelativeToolTip": "TextRPGTask\\Player.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwCIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:56.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\PlayerData.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\PlayerData.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\PlayerData.cs",
+              "RelativeToolTip": "TextRPGTask\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPGTask\\Program.cs",
+              "ToolTip": "D:\\GitHub\\LikeLion\\LikeLion\\TextRPGTask\\TextRPGTask\\Program.cs",
+              "RelativeToolTip": "TextRPGTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:59:39.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\bin\Debug\TextRPGTask.exe.config
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\bin\Debug\TextRPGTask.exe
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\bin\Debug\TextRPGTask.pdb
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\obj\Debug\TextRPGTask.csproj.AssemblyReference.cache
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\obj\Debug\TextRPGTask.csproj.CoreCompileInputs.cache
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\obj\Debug\TextRPGTask.exe
+D:\GitHub\LikeLion\LikeLion\TextRPGTask\TextRPGTask\obj\Debug\TextRPGTask.pdb
